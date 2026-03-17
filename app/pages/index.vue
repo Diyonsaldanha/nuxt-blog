@@ -1,5 +1,4 @@
 <script setup>
-// In v3, we query the 'blog' collection we just defined in the config
 const { data: posts } = await useAsyncData('blog-posts', () => {
   return queryCollection('blog').all()
 })
