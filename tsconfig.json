@@ -1,5 +1,4 @@
 {
-  // https://nuxt.com/docs/guide/concepts/typescript
   "files": [],
   "references": [
     {
@@ -11,8 +10,6 @@
     {
       "path": "./.nuxt/tsconfig.shared.json"
     },
-    {
-      "path": "./.nuxt/tsconfig.node.json"
-    }
+  
   ]
 }
