@@ -9,7 +9,7 @@
   ],
    app: {
     head: {
-      title: 'DevBlog | My Portfolio',
+      title: 'Blog',
       meta: [
         { name: 'description', content: 'Writing about web development and my projects.' }
       ]
